@@ -1,3 +1,21 @@
-*.vscode
-code.txt
 *.txt
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# 虛擬環境
+venv/
+.venv/
+env/
+
+# 編輯器
+.vscode/
+.idea/
+
+# 系統檔
+.DS_Store
+Thumbs.db
+desktop.ini
